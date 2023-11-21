@@ -1,0 +1,140 @@
+  input{
+    margin-top: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 350px;
+    height: 30px;
+    border: none;
+    border-bottom: 1px solid black;
+  }
+  button{
+    margin-left: 30px;
+    width: 90px;
+    height: 40px;
+    background-color: #39A7FF;
+    border-radius: 15px;
+    border: none;
+    color: white;
+  }
+  #faHospital{
+    width: 40px;
+    height: 40px;
+    margin-top: 25px;
+    margin-left: 30px;
+  }
+  .innergrid{
+    margin-top: 30px;
+  }
+  .grid{
+    width: 100%;
+    height: 200px;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+  }
+  #ig1 h3{
+    position: absolute;
+    margin-top: -90px;
+    margin-left: 100px;
+  }
+  #ig1 h6{
+    position: absolute;
+    margin-top: -58px;
+    margin-left: 100px;
+  }
+  #ig2{
+    background-color: #E5D4FF;
+  }
+  #ig2 h4{
+    margin-top: -50px;
+    margin-left: 100px;
+  }
+  #ig2 h6{
+    margin-top: 5px;
+    margin-left: 100px;
+  }
+  #ig3{
+    background-color: #F4DFC8;
+  }
+  #ig3 h4{
+    margin-top: -80px;
+    margin-left: 90px;
+  }
+  #ig3 h6{
+    margin-top: 5px;
+    margin-left: 90px;
+  }
+  #ig4{
+    background-color: #FDE5EC;
+  }
+  #ig4 h4{
+    margin-top: -70px;
+  }
+  #ig4 h4,h6{
+    margin-left: 90px;
+  }
+  .Footer{
+    height: 50px;
+    width: 590px;
+    margin-left: 400px;
+    margin-top: 50px;
+    /* background-color: wheat; */
+  }
+  .des1{
+    border-radius: 10px;
+    margin-left: 100%;
+    transform: rotate(30deg);
+    transform-origin: -30% -30%;
+    width: 100px;
+    height: 100px;
+    background-color:#39A7FF ;
+  }
+  .des2{
+    position: absolute;
+    margin-top: -300px;
+    border-radius: 40px;
+    transform: rotate(40deg);
+    transform-origin: 20% -10%;
+    width: 300px;
+    height: 300px;
+    background-color:#39A7FF ;
+  }
+  .footer2{
+    height: 40px;
+    width: 590px;
+    padding-top: 10px;
+    margin-left: 400px;
+    position: relative;
+    float: right;
+  
+  }
+  a{
+    text-decoration: none;
+  }
+  #inp1{
+    margin-left: -100px;
+    
+  }
+  #inp2{
+    margin-left: -200px;
+  }
+  #i{
+    margin-left: -394px;
+  }
+  .header{
+    width: 550px;
+    height: 50px;
+    padding: 20px;
+    margin-top: 50px;
+    margin-left: 400px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+  
+  }
+  .login{
+    width: 550px;
+    height: 200px;
+    padding: 20px;
+    margin-left: 400px;
+    /* background-color: wheat; */
+  }
+ 
